@@ -1,0 +1,29 @@
+{
+  "canisters": {
+    "clutch_dao_backend": {
+      "declarations": {
+        "node_compatibility": true
+      },
+      "main": "src/clutch_dao_backend/main.mo",
+      "type": "motoko"
+    },
+    "clutch_dao_frontend": {
+      "dependencies": [
+        "clutch_dao_backend"
+      ],
+      "source": [
+        "src/clutch_dao_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "clutch_dao_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
