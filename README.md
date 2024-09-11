@@ -16,6 +16,8 @@ To learn more before you start working with `clutch_dao`, see the following docu
 - [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/motoko/main/language-manual)
 
 ## Token deployed on icp mainet [Clutch token]
+The deployed token can be found on the ICP mainnet. For more details, visit the token repository[https://github.com/ndicu5156/CLUTCH_TOKEN.git]. Visit the deployed token in Mainnet https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=qkzcw-6yaaa-aaaap-qhxja-cai.
+
 
 ![clutch](https://github.com/user-attachments/assets/f5ded883-988b-4479-b4f2-3400d45eb406)
 
