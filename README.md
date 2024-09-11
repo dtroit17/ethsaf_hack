@@ -1,3 +1,7 @@
+
+
+
+
 # `clutch_dao`
 
 Welcome to your new `clutch_dao` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
@@ -10,6 +14,12 @@ To learn more before you start working with `clutch_dao`, see the following docu
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/setup/install)
 - [Motoko Programming Language Guide](https://internetcomputer.org/docs/current/motoko/main/motoko)
 - [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/motoko/main/language-manual)
+
+## Token deployed on icp mainet [Clutch token]
+
+![clutch](https://github.com/user-attachments/assets/f5ded883-988b-4479-b4f2-3400d45eb406)
+
+<img width="273" alt="plug" src="https://github.com/user-attachments/assets/8c9c40cd-dcbd-45a5-bf06-7e7685d892d8">
 
 If you want to start working on your project right away, you might want to try the following commands:
 
